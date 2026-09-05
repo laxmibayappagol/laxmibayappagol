@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - About Me
 
-Hi! I'm *Laxmi Bayappagol* .i am a student.
+Hi! I'm *Laxmi Bayappagol* .i am student.
 
 🎓 I am a *BCA student* interested in learning new technologies and improving my programming skills.
 
